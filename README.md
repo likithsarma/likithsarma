@@ -1,74 +1,68 @@
-<h1 align="center">Hi, I'm Likith Sarma 👋</h1>
-<p align="center">AI/ML Enthusiast | Python Developer | Computer Vision & NLP</p>
+<h1 align="center">Hi, I'm Likith Sarma Jandyala👋</h1>
+<p align="center">AI/ML Developer | Python Programmer | Computer Vision | NLP </p>
 
 ---
 
-### 🔍 Summary
+### 🚀 About Me
 
-🚀 I'm a Computer Science undergraduate specializing in AI/ML from VIT Amaravati.  
-🔬 I’ve built intelligent systems from travel chatbots to safety wearables using Deep Learning, Computer Vision, and NLP.  
-📊 Strong foundation in data analysis, project design, and end-to-end ML development.  
-💡 My mission: Build tech that makes the world safer, smarter, and simpler.
+I'm passionate about building intelligent systems that solve real-world problems using AI, Machine Learning, and Python.
 
----
-
-### 🛠 Tech Stack
-
-**Languages & Scripting**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-**ML & AI**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv4](https://img.shields.io/badge/YOLOv4-FF1493?style=for-the-badge)
-
-**Web & App Development**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Tools & Workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+From AI chatbots to computer vision-based safety solutions, I love turning ideas into impactful technology.  
+Currently focused on deep learning, NLP, and full-stack ML development.
 
 ---
 
-### 🌟 Featured Projects
+### 🧰 Tech Stack
 
-#### 🚨 SheShield – Smart Wearable Safety Device
-- 🔊 Voice recognition with noise filtering (92% accuracy)
-- 🎯 Integrated face + eye detection on Raspberry Pi using OpenCV
-- 🌐 GPS + emergency alert system
+**Languages & Programming**
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-#### 🧠 Travel Alarm Chatbot (LangChain + Gemini)
-- 🧭 AI-powered travel assistant with 40% higher engagement
-- ⚡ HuggingFace embeddings + FAISS vector DB
-- 📍 Geo-enabled Streamlit UI with live maps
+**Machine Learning & AI**
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)](https://www.langchain.com/)
 
-#### 🕳️ Pothole Detection System (YOLOv4 + OpenCV)
-- 🛣️ 95% detection accuracy, real-time 30 FPS
-- 🧾 Custom 1000+ image dataset + validation pipelines
-- 🚗 Built for real-world deployment on standard hardware
+**Web & App Development**
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
----
-
-### 🏆 Achievements & Involvement
-- 🎥 Video editing in After Effects & Premiere Pro (motion storytelling)
-- 🧑‍🎨 Participated in Figma/UI hackathons
-- 💬 Open to ML internships, research collabs, or tech-for-good projects!
-
----
-
-### 📫 Connect With Me
-- 📧 Email: likithjandhyala@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/likithjandyala](https://www.linkedin.com/in/likith-jandyala-5a16a8297/)  
-- 🌐 GitHub: [github.com/likithsarma](https://github.com/likithsarma)
+**Tools & Platforms**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 
 ---
 
-⭐ *"Let your projects speak before your resume."*
+### 🔍 Highlight Projects
+
+#### 🛡️ SheShield – Smart Wearable Safety Device  
+- Voice recognition + noise filtering (92% accuracy)  
+- Face & eye detection with OpenCV on Raspberry Pi  
+- Emergency alerts with GPS integration
+
+#### 🌍 Travel Alarm Chatbot (LangChain + Gemini)  
+- AI-powered assistant for travelers  
+- Uses Hugging Face embeddings + FAISS DB  
+- Geo-enabled UI with live maps (Streamlit)
+
+#### 🚧 Pothole Detection System (YOLOv4)  
+- 95% real-time hazard detection  
+- Custom-trained on 1000+ annotated images  
+- Designed for real-world road deployment
+
+---
+
+### 🤝 Let’s Connect
+
+- 📧 **Email**: likithjandhyala@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/likithjandyala](https://www.linkedin.com/in/likith-jandyala-5a16a8297/)  
+- 💻 **GitHub**: [github.com/likithsarma](https://github.com/likithsarma)
+
+---
+
+> “I build AI projects that create real-world impact — let’s connect and build something amazing.”
+
