@@ -60,7 +60,6 @@ Currently focused on deep learning, NLP, and full-stack ML development.
 
 - 📧 **Email**: likithjandhyala@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/likithjandyala](https://www.linkedin.com/in/likith-jandyala-5a16a8297/)  
-- 💻 **GitHub**: [github.com/likithsarma](https://github.com/likithsarma)
 
 ---
 
