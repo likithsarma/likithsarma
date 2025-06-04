@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Likith Sarma 👋</h1>
-<p align="center">AI/ML Enthusiast | Python Developer | Computer Vision & NLP </p>
+<p align="center">AI/ML Enthusiast | Python Developer | Computer Vision & NLP</p>
 
 ---
 
@@ -14,16 +14,27 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)  
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=data:image/svg+xml;base64,...)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat&logo=scikit-learn)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat&logo=streamlit)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)  
-![Adobe](https://img.shields.io/badge/-Adobe%20Creative%20Suite-black?style=flat&logo=adobe)
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+**ML & AI**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv4](https://img.shields.io/badge/YOLOv4-FF1493?style=for-the-badge)
+
+**Web & App Development**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Tools & Workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
@@ -46,15 +57,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likithsarma&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likithsarma&theme=radical" />
-</p>
-
----
-
 ### 🏆 Achievements & Involvement
 - 🎥 Video editing in After Effects & Premiere Pro (motion storytelling)
 - 🧑‍🎨 Participated in Figma/UI hackathons
@@ -64,8 +66,9 @@
 
 ### 📫 Connect With Me
 - 📧 Email: likithjandhyala@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/likithjandyala](https://www.linkedin.com/in/likith-jandyala-5a16a8297/)
+- 💼 LinkedIn: [linkedin.com/in/likithjandyala](https://www.linkedin.com/in/likith-jandyala-5a16a8297/)  
+- 🌐 GitHub: [github.com/likithsarma](https://github.com/likithsarma)
 
 ---
 
-⭐ *"Let your projects speak before your resume."*  
+⭐ *"Let your projects speak before your resume."*
